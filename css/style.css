@@ -241,6 +241,15 @@
 
 
 /*** Service ***/
+.service-icon {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: 0 auto;
+    display: block;
+}
+
+
 .service-item {
     box-shadow: 0 0 45px rgba(0, 0, 0, .06);
 }
